@@ -1,0 +1,21 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+body{
+    height: 100vh; /*tamanho conforme ao viewport da tela*/
+    box-sizing: border-box; /*controle dos elementos filhos dentro dos elementos pai*/
+    background-color: #000000;
+    color: #ffffff
+
+}
+
+strong.text{
+    color: #22D4FD;
+}
+
+.principalContent{
+    display: flex;
+    align-items: center;
+}
